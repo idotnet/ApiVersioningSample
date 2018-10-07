@@ -1,0 +1,14 @@
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\bin\Debug\netcoreapp2.1\ApiVersioningSampleApp.deps.json
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\bin\Debug\netcoreapp2.1\ApiVersioningSampleApp.runtimeconfig.json
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\bin\Debug\netcoreapp2.1\ApiVersioningSampleApp.runtimeconfig.dev.json
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\bin\Debug\netcoreapp2.1\ApiVersioningSampleApp.dll
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.csproj.CoreCompileInputs.cache
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.RazorAssemblyInfo.cache
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.RazorAssemblyInfo.cs
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.AssemblyInfoInputs.cache
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.AssemblyInfo.cs
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.RazorTargetAssemblyInfo.cache
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\bin\Debug\netcoreapp2.1\ApiVersioningSampleApp.pdb
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.dll
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.pdb
+G:\VsProjects\ApiVersioningSample\ApiVersioningSampleApp\obj\Debug\netcoreapp2.1\ApiVersioningSampleApp.csprojAssemblyReference.cache
